@@ -1,0 +1,5 @@
+body{
+  font-size: 3rem;
+  /*3rem = 16*3px (body의 기본폰트16px) 반응형일때 rem 사용(em은 부모크기를 따라가기때문에 비효율적)*/
+  color: blueviolet;
+}
